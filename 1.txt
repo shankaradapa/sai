@@ -1,0 +1,2 @@
+code to install java
+code to install c++
