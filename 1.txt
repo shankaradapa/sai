@@ -1,2 +1,8 @@
+
 code to install java
+
 code to install python
+
+
+code to install java
+code to install c++
